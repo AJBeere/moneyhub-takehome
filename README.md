@@ -1,5 +1,15 @@
 ## Getting Started
 
+Naivgate to all 3 microservices and install the depedenciies
+```
+cd admin
+npm i
+cd ../financial-companies
+npm i
+cd ../investments
+npm i
+```
+
 To develop against all the services each one will need to be started in each service run
 
 ```bash
